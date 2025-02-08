@@ -18,7 +18,7 @@ A simple yet powerful password generator built using Java and Java Swing. This a
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/AritraC1/PasswordGenerator.git
     ```
 2. Open the project in your Java IDE.
 3. Build and run the project.
